@@ -20,7 +20,7 @@ We hope that this course gets students excited about combining programming and q
 
 |      | Date              | Time        | Topic                     | Coding concepts                     | Bio concepts           | Materials              |
 | ---- | ----------------- | ----------- | ------------------------- | ----------------------------------- | ---------------------- | ---------------------- |
-| 1    | Friday, June 20   |  9:00-10:30 | Introduction              | string operations                   | Central Dogma|[Secret Message Challenge](https://colab.research.google.com/drive/1m0f4qn93E8r1pS6Ug0IKoRPkyc1jbAw6?usp=sharing) [Secret Protein Challenge](https://colab.research.google.com/drive/1yZtpqwkJkTEOqTntNuUsSTQMYTtr4zuL?usp=sharing)|
+| 1    | Friday, June 20   |  9:00-10:30 | [Introduction](https://docs.google.com/presentation/d/13wWQHa7vnYExp4SCAHlDV0BKdxTZ6izBxnbL-HkVYnE/edit?usp=sharing)              | string operations                   | Central Dogma|[Secret Message Challenge](https://colab.research.google.com/drive/1m0f4qn93E8r1pS6Ug0IKoRPkyc1jbAw6?usp=sharing) [Secret Protein Challenge](https://colab.research.google.com/drive/1yZtpqwkJkTEOqTntNuUsSTQMYTtr4zuL?usp=sharing)|
 | 2    | Monday, June 23   | 10:30-12:00 | Exploratory data analysis | dataframes, | | |
 | 3    | Tuesday, June 24  |  9:00-10:30 | Image Analysis            |  | | |
 | 4    | Thursday, June 26 | 11:00-12:30 | Modeling and Simulations  |  | | |
